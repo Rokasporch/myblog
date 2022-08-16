@@ -5,6 +5,6 @@ author = "Robert"
 description = "wie kann man mich kontaktieren"
 +++
 
-## Kontact
+## Kontakt
 
 Wer mich kennt, weiß wie man mich kontaktieren kann :)
