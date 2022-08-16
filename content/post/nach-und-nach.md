@@ -9,5 +9,4 @@ author: "Robert"
 
 So nach und nach werde ich die vorhandene Anleitung durchgehen und die Seite dann nach meinem Geschmack anpassen.
 
-Das Projekt ist nun über meine Hauptdomain erreichbar. Hätte nicht gedacht dass das so leicht geht.
-
+Das Projekt ist nun über meine Haupt Domain erreichbar. Hätte nicht gedacht dass das so leicht geht.
