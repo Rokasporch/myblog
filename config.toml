@@ -19,7 +19,6 @@ copyright = "Robert Karg"
 [Permalinks]
     post = "/:filename/"
 
-[Menu]
     [[menu.main]]
     name = "Blog"
     url = "/"
