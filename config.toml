@@ -5,8 +5,8 @@ theme = "ghostwriter"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
+    headline = "Rokasporchs Blog"
+    description = "noch nicht spezifiziert, was das hier wird"
     github = "https://github.com/rokasporch"
     twitter = "https://twitter.com/rokasporch"
     email = "rokasporch@gmx.de"
