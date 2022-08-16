@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "My blog"
+title = "Rokasporchs Blog"
 theme = "ghostwriter"
 
 [Params]
@@ -7,9 +7,9 @@ theme = "ghostwriter"
     intro = true
     headline = "My headline"
     description = "My description"
-    github = "https://github.com/XXX"
-    twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
+    github = "https://github.com/rokasporch"
+    twitter = "https://twitter.com/rokasporch"
+    email = "rokasporch@gmx.de"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
