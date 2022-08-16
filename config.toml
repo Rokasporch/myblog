@@ -1,8 +1,6 @@
 baseurl = "/"
 title = "Rokasporchs Blog"
 theme = "ghostwriter"
-languageCode = "de-de"
-copyright = "Robert Karg"
 
 [Params]
     mainSections = ["post"]
