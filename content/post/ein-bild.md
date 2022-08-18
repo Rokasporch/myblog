@@ -11,14 +11,8 @@ Nun wollen wir mal ein Bild auf die Webseite zaubern.
 
 Funktionieren soll das ja mit dem Jane Theme relativ schnell und einfach.
 
-## Normal Image
+## Ein Bild
 
-This is an image in `static/image` folder.
-
-```markdown
-![This is an image in `static/image` folder.](/images/preview.png)
-```
-
-Evtl. zwei mal das gleiche Bild?
+Das Bild sollte in dem Ordner "content" sein
 
 ![Vorschaubild](/images/preview.png "Hier sollte das Vorschaubild zu sehen sein")
