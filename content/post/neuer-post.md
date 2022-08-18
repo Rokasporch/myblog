@@ -3,6 +3,8 @@ title: "Neuer Post"
 date: 2022-08-16T15:16:18+02:00
 draft: false
 author: "Robert"
+tags: ["neu", "blog", "2022", "irgendwas"]
+categories: ["gesülze", "blog", "index"]
 ---
 
 ## Neuer Post in Hugo
