@@ -48,10 +48,7 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 40
   identifier = "categories"
   url = "/categories/"
-[[menu.main]]
-  name = "external-link"
-  weight = 50
-  url = "https://gohugo.io"
+
 
 
 [params]
@@ -84,4 +81,3 @@ defaultContentLanguage = "en"           # Default language to use
     g-github = "https://github.com/rokasporch"
     s-mastodon = "https://mastodon.social/web/@Rokasporch#"
     t-youtube = "https://www.youtube.com/rokasporch"
-    

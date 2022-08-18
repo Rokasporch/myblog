@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Rokasporch - mal sehen was das wird</title>
+    <link>//localhost:1313///%20/page/</link>
+    <description>Recent content in Pages on Rokasporch - mal sehen was das wird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Aug 2022 02:13:50 +0000</lastBuildDate><atom:link href="//localhost:1313///%20/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontact</title>
+      <link>//localhost:1313///%20/page/contact/</link>
+      <pubDate>Mon, 15 Aug 2022 02:13:50 +0000</pubDate>
+      
+      <guid>//localhost:1313///%20/page/contact/</guid>
+      <description>Kontakt Wer mich kennt, weiß wie man mich kontaktieren kann :)</description>
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>//localhost:1313///%20/page/about/</link>
+      <pubDate>Mon, 15 Aug 2022 02:13:50 +0000</pubDate>
+      
+      <guid>//localhost:1313///%20/page/about/</guid>
+      <description>About Gibts ned so viel zu erzählen
+School kein Platz für sowas</description>
+    </item>
+    
+  </channel>
+</rss>

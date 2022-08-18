@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rokasporch - mal sehen was das wird</title>
+    <link>//localhost:1313///%20/</link>
+    <description>Recent content on Rokasporch - mal sehen was das wird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Aug 2022 15:20:32 +0200</lastBuildDate>
+    
+        <atom:link href="//localhost:1313///%20/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>//localhost:1313///%20/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>//localhost:1313///%20/about/</guid>
+      
+        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Nach Und Nach</title>
+      <link>//localhost:1313///%20/post/nach-und-nach/</link>
+      <pubDate>Tue, 16 Aug 2022 15:20:32 +0200</pubDate>
+      
+      <guid>//localhost:1313///%20/post/nach-und-nach/</guid>
+      
+        <description>&lt;h2 id=&#34;es-wächst&#34;&gt;Es wächst&lt;/h2&gt;
+&lt;p&gt;So nach und nach werde ich die vorhandene Anleitung durchgehen und die Seite dann nach meinem Geschmack anpassen.&lt;/p&gt;
+&lt;p&gt;Das Projekt ist nun über meine Haupt Domain erreichbar. Hätte nicht gedacht dass das so leicht geht.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Neuer Post</title>
+      <link>//localhost:1313///%20/post/neuer-post/</link>
+      <pubDate>Tue, 16 Aug 2022 15:16:18 +0200</pubDate>
+      
+      <guid>//localhost:1313///%20/post/neuer-post/</guid>
+      
+        <description>&lt;h2 id=&#34;neuer-post-in-hugo&#34;&gt;Neuer Post in Hugo&lt;/h2&gt;
+&lt;p&gt;Hugo erstellt im Termina mit dem Befehl &amp;ldquo;hugo new post/neuer-post.md&amp;rdquo; einen neuen Blogpost.&lt;/p&gt;
+&lt;p&gt;Diesen kann man dann mit dem Editor seiner Wahl öffnen, bearbeiten und speichern.&lt;/p&gt;
+&lt;p&gt;Empfehlung unter MacOS: Atom. Der sieht bisher schön aus und lässt sich für mich leicht bedienen.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Kontact</title>
+      <link>//localhost:1313///%20/page/contact/</link>
+      <pubDate>Mon, 15 Aug 2022 02:13:50 +0000</pubDate>
+      
+      <guid>//localhost:1313///%20/page/contact/</guid>
+      
+        <description>&lt;h2 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h2&gt;
+&lt;p&gt;Wer mich kennt, weiß wie man mich kontaktieren kann :)&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>//localhost:1313///%20/page/about/</link>
+      <pubDate>Mon, 15 Aug 2022 02:13:50 +0000</pubDate>
+      
+      <guid>//localhost:1313///%20/page/about/</guid>
+      
+        <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;Gibts ned so viel zu erzählen&lt;/p&gt;
+&lt;h2 id=&#34;school&#34;&gt;School&lt;/h2&gt;
+&lt;p&gt;kein Platz für sowas&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

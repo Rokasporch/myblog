@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rokasporch - mal sehen was das wird</title>
+    <link>//localhost:1313///%20/post/</link>
+    <description>Recent content in Posts on Rokasporch - mal sehen was das wird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Aug 2022 15:20:32 +0200</lastBuildDate><atom:link href="//localhost:1313///%20/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nach Und Nach</title>
+      <link>//localhost:1313///%20/post/nach-und-nach/</link>
+      <pubDate>Tue, 16 Aug 2022 15:20:32 +0200</pubDate>
+      
+      <guid>//localhost:1313///%20/post/nach-und-nach/</guid>
+      <description>Es wächst So nach und nach werde ich die vorhandene Anleitung durchgehen und die Seite dann nach meinem Geschmack anpassen.
+Das Projekt ist nun über meine Haupt Domain erreichbar. Hätte nicht gedacht dass das so leicht geht.</description>
+    </item>
+    
+    <item>
+      <title>Neuer Post</title>
+      <link>//localhost:1313///%20/post/neuer-post/</link>
+      <pubDate>Tue, 16 Aug 2022 15:16:18 +0200</pubDate>
+      
+      <guid>//localhost:1313///%20/post/neuer-post/</guid>
+      <description>Neuer Post in Hugo Hugo erstellt im Termina mit dem Befehl &amp;ldquo;hugo new post/neuer-post.md&amp;rdquo; einen neuen Blogpost.
+Diesen kann man dann mit dem Editor seiner Wahl öffnen, bearbeiten und speichern.
+Empfehlung unter MacOS: Atom. Der sieht bisher schön aus und lässt sich für mich leicht bedienen.</description>
+    </item>
+    
+  </channel>
+</rss>
