@@ -16,8 +16,9 @@ Funktionieren soll das ja mit dem Jane Theme relativ schnell und einfach.
 This is an image in `static/image` folder.
 
 ```markdown
-![This is an image in `static/image` folder.](/image/preview.png)
+![This is an image in `static/image` folder.](/images/preview.png)
 ```
 
+Evtl. zwei mal das gleiche Bild?
 
-![Vorschaubild](/image/preview.png "Hier sollte das Vorschaubild zu sehen sein")
+![Vorschaubild](/images/preview.png "Hier sollte das Vorschaubild zu sehen sein")
