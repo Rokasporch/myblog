@@ -18,3 +18,6 @@ This is an image in `static/image` folder.
 ```markdown
 ![This is an image in `static/image` folder.](/image/preview.png)
 ```
+
+
+![Vorschaubild](/image/preview.png "Hier sollte das Vorschaubild zu sehen sein")
