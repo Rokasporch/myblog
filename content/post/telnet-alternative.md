@@ -1,5 +1,5 @@
 ---
-title: "Remote Desktop Verbindung zu Windows Gast auf QEMU Hosts"
+title: "Telnet unter Linux"
 date: 2022-11-03T19:16:18+02:00
 draft: false
 author: "Robert"
