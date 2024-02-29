@@ -7,9 +7,7 @@ tags: ["neu", "blog", "2024", "irgendwas"]
 categories: ["gesülze", "blog", "index"]
 ---
 
-## Neuer Post in Hugo
-
-Noch ein Befehl mit dem Telnet auf der Linux Bash ersetzt werden kann:
+## Noch ein Befehl mit dem Telnet auf der Linux Bash ersetzt werden kann:
 
 (>/dev/tcp/[IP]/[PORT]) >/dev/null 2>&1 && echo 'Connection Success' || echo 'Connection refused'
 
